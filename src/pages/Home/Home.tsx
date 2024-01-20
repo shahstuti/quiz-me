@@ -76,34 +76,9 @@ export function Home() {
       </div>
       <div className="footer flex-center">
         <h5>
-          Made with <i className="fa fa-heart" aria-hidden="true"></i> by Rutvik Umak{" "}
+          Made with <i className="fa fa-heart" aria-hidden="true"></i> Tisha ,jaimin, stuti{" "}
         </h5>
-        <div className="icon-bar">
-          <a
-            href="https://github.com/rutvikpumak"
-            target="_blank"
-            className="github-logo"
-            rel="noreferrer"
-          >
-            <i className="fa fa-github "></i>
-          </a>
-          <a
-            href="https://twitter.com/rutvikumak13"
-            target="_blank"
-            className="twitter"
-            rel="noreferrer"
-          >
-            <i className="fa fa-twitter "></i>
-          </a>
-          <a
-            href="https://linkedin.com/in/rutvikumak"
-            target="_blank"
-            className="linkedin"
-            rel="noreferrer"
-          >
-            <i className="fa fa-linkedin "></i>
-          </a>
-        </div>
+        
         <p className="paragraph-sm">© 2022</p>
       </div>
     </>

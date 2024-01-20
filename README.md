@@ -1,7 +1,7 @@
 <div align="center">
   <img src="src/assets/logo.png" height="100" width="100" alt="logo"/>
   
-# Quiz Me
+#  Me
 ###  A Fun Quiz Web Application
 </div>
 
