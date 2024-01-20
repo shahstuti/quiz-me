@@ -22,7 +22,7 @@ export function Navbar() {
       <div className="navbar-right">
         <div>
           <Link to="/dashboard">
-            <h5 className="dashboard-text">Dashboard</h5>
+            <h5 className="dashboard-text">Dboard</h5>
           </Link>
         </div>
         <i
